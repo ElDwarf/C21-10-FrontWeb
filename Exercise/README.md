@@ -6,7 +6,7 @@ Template: (https://github.com/ElDwarf/React-project-vs-template)[https://github.
 
 ## Paso 2. Replicar el wireframe que se adjunta a continuacion usando completamente componentes de React
 
-![Wireframe](/img/draw.png)
+![Wireframe](img/draw.png)
 
 ## Paso 3. Crear repositorio y subir el codigo.
 
